@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="JavaStudent" type="CLASS" />
+      <mapping pattern="textOne" type="CLASS" />
+      <mapping pattern="Input02" type="HTML" />
+      <mapping pattern="Student" type="Native" />
+      <mapping ext="javaclass" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
